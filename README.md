@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan David Henao Marín</h1>
-<h3 align="center">A passionate full-stack developer from Colombia</h3>
+<h3 align="center">A passionate full-stack developer from Medellín, Colombia</h3>
 
 
 - 🔭 I’m currently working on **Universidad Nacional de Colombia**
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **judhenaoma@unal.edu.co**
 
-- ⚡ Fun fact **I love doing maps**
+- ⚡ Fun fact **I love doing maps & build web applications**
 
 <p align="left">
 </p>
