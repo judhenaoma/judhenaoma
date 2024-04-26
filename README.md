@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Universidad Nacional de Colombia**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS & Machine Learning**
 
 - 📫 How to reach me **judhenaoma@unal.edu.co**
 
